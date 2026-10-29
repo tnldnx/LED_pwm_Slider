@@ -10,7 +10,7 @@ Arduino의 푸시 버튼과 p5.js 웹 인터페이스를 통해 LED의 ON/OFF �
 
 ## 2. 사용 부품
 
-- Arduino UNO R3
+- Arduino UNO
 - LED 2개
 - 저항
 - 푸시 버튼
@@ -22,11 +22,11 @@ Arduino의 푸시 버튼과 p5.js 웹 인터페이스를 통해 LED의 ON/OFF �
 
 ## 3. 회로 연결
 
-Arduino UNO R3에 LED 2개, 푸시 버튼, 가변저항, I2C LCD를 연결했다.
+Arduino UNO에 LED 2개, 푸시 버튼, 가변저항, I2C LCD를 연결했다.
 
 첫 번째 LED는 디지털 출력 핀에 연결하여 ON/OFF를 제어하고, 두 번째 LED는 PWM 출력 핀에 연결하여 밝기를 조절하도록 구성했다.
 
-| Arduino UNO R3 | 연결 부품 | 기능 |
+| Arduino UNO | 연결 부품 | 기능 |
 |---|---|---|
 | D13 | LED 1 | ON/OFF 제어 |
 | D5 | LED 2 | PWM 밝기 제어 |
