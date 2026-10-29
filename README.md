@@ -1,5 +1,4 @@
 # 창의설계입문 미션 - Arduino와 p5.js를 활용한 LED 제어
-# Arduino-p5js-Web-Serial
 
 ## 1. 미션 소개
 
