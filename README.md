@@ -262,11 +262,6 @@ Arduino와 p5.js를 Web Serial로 연결하면 웹 화면에서 LED의 ON/OFF �
 
 <img width="312" height="255" alt="image" src="https://github.com/user-attachments/assets/42ea8b73-6918-4fa5-a9c9-64538297c949" />
 
-
-### 실행 영상
-
-시연 영상 추가 예정
-
 ## 6. 제작 과정 및 고찰
 
 기존 프로젝트에서는 p5.js의 원형 버튼을 통해 LED의 ON/OFF 상태를 제어하고, Arduino에서 측정한 가변저항 값을 웹 화면에 표시할 수 있었다.
