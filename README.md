@@ -89,7 +89,7 @@ p5.js에서는 LED 제어 명령과 PWM 값을 Arduino로 전송하고, Arduino�
 | `POT:512` | 가변저항 값 512 수신 |
 
 ### 4.5 코드 동작 원리
-
+p5.js 링크 : https://editor.p5js.org/tnldnx-evergreen/sketches/WbAmyvvcp
 **1) 시리얼 통신 객체 및 변수 선언**
 
 ```javascript
